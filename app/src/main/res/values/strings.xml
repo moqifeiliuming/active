@@ -1,0 +1,11 @@
+
+
+<resources>
+    <string name="app_name">两个Activity</string>
+    <string name="button_main">发送</string>
+    <string name="editText_main">在这里输入信息</string>
+    <string name="text_header">收到的信息</string>
+    <string name="button_second">回答</string>
+    <string name="editText_second">在这里输入回答</string>
+    <string name="text_header_reply">收到的回答</string>
+</resources>
