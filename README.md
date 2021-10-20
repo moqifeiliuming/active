@@ -1,21 +1,19 @@
 TwoActivities - Solution Code
 =============================
-
-The TwoActivities app contains two activities. It uses an explicit Intent
-to launch one Activity from another, and uses Intent extras to pass data
-between them. 
+TwoActivites应用程序包含两个活动，使用显示的Intent从另一个Activity启动一个Activity，并使用Intent extras在它们之间传递数据。
 
 Pre-requisites
 --------------
-
+对于此应用程序，您应该熟悉：
 For this app you should be familiar with:
 
+*在Android Studio中创建和运行应用程序。
 * Creating and running apps in Android Studio.
 
 Getting Started
 ---------------
-
-1. Download and open the app in Android Studio.
+下载并在 Android Studio 中共打开该应用程序
+Download and open the app in Android Studio.
 
 License
 -------
