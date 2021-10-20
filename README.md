@@ -12,7 +12,7 @@ For this app you should be familiar with:
 
 Getting Started
 ---------------
-下载并在 Android Studio 中共打开该应用程序
+下载并在 Android Studio 中打开该应用程序
 Download and open the app in Android Studio.
 
 License
