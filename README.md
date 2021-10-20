@@ -5,10 +5,8 @@ TwoActivites应用程序包含两个活动，使用显示的Intent从另一个Ac
 Pre-requisites
 --------------
 对于此应用程序，您应该熟悉：
-For this app you should be familiar with:
 
 *在Android Studio中创建和运行应用程序。
-* Creating and running apps in Android Studio.
 
 Getting Started
 ---------------
